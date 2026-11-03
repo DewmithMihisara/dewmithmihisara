@@ -18,7 +18,7 @@ I build scalable web applications, RESTful APIs, and reliable backend systems. I
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DewmithMihisara&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![GitHub Stats](https://forgechart.vercel.app/api/stats?username=DewmithMihisara&theme=transparent&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&border_radius=5)
 
 ### Connect
 

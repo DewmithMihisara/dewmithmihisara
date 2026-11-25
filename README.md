@@ -16,9 +16,9 @@ I build scalable web applications, RESTful APIs, and reliable backend systems. I
 
 **Tools & Platforms:** Git, Docker, AWS, GCP, Maven
 
-### GitHub Stats
+### Top Languages
 
-![GitHub Stats](https://forgechart.vercel.app/api/stats?username=DewmithMihisara&theme=transparent&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&border_radius=5)
+![Top Languages](https://forgechart.vercel.app/api/langs?username=DewmithMihisara&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&hide_border=true)
 
 ### Connect
 

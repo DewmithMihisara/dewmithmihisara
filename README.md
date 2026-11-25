@@ -17,8 +17,11 @@ I build scalable web applications, RESTful APIs, and reliable backend systems. I
 **Tools & Platforms:** Git, Docker, AWS, GCP, Maven
 
 -----
-![Top Languages](https://forgechart.vercel.app/api/langs?username=DewmithMihisara&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&hide_border=true)
-![Weekly Rhythm](https://forgechart.vercel.app/api/weekday?username=DewmithMihisara&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&hide_border=true)
+<div align="center">
+  <img src="https://forgechart.vercel.app/api/langs?username=DewmithMihisara&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&hide_border=true" width="49%" />
+  <img src="https://forgechart.vercel.app/api/weekday?username=DewmithMihisara&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&accent_color=3fb950&border_color=30363d&hide_border=true" width="49%" />
+</div>
+
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/dewmith-mihisara/) ·
